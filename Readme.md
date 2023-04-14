@@ -11,3 +11,7 @@ Com os números em mãos logo em seguida é executado um laço de repetição on
 cada posição do vetor e se houver somente dois divisores então o número digitado é um número primo. Após isso armazeno esse número
 em outro vetor com somente os números primos e após terminar este laço de repetição o resultado é mostrado na tela com os números
 primos corretamente selecionados.
+
+## ✒️ Autores
+
+* **Um desenvolvedor** - [Gabriel Batista]([https://github.com/batiistta])

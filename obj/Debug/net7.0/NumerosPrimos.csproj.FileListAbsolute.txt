@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\bin\Debug\net7.0\NumerosPrimos.exe
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\bin\Debug\net7.0\NumerosPrimos.deps.json
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\bin\Debug\net7.0\NumerosPrimos.runtimeconfig.json
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\bin\Debug\net7.0\NumerosPrimos.dll
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\bin\Debug\net7.0\NumerosPrimos.pdb
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\obj\Debug\net7.0\NumerosPrimos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\obj\Debug\net7.0\NumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\obj\Debug\net7.0\NumerosPrimos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\obj\Debug\net7.0\NumerosPrimos.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\obj\Debug\net7.0\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\obj\Debug\net7.0\NumerosPrimos.dll
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\obj\Debug\net7.0\refint\NumerosPrimos.dll
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\obj\Debug\net7.0\NumerosPrimos.pdb
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\obj\Debug\net7.0\NumerosPrimos.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\teste\NumerosPrimos\obj\Debug\net7.0\ref\NumerosPrimos.dll

@@ -12,7 +12,7 @@ cada posição do vetor e se houver somente dois divisores então o número digi
 em outro vetor com somente os números primos e após terminar este laço de repetição o resultado é mostrado na tela com os números
 primos corretamente selecionados.
 
-🔧 Teste
+## 🔧 Teste
 
 Para realização de teste unitário foi utilizado o XUnit.
 

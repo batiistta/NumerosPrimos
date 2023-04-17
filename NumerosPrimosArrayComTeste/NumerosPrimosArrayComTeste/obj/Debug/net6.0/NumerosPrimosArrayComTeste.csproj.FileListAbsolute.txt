@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Desktop\teste\NumerosPrimosArrayComTeste\NumerosPrimosArrayComTeste\bin\Debug\net6.0\NumerosPrimosArrayComTeste.deps.json
+C:\Users\Gabriel\Desktop\teste\NumerosPrimosArrayComTeste\NumerosPrimosArrayComTeste\bin\Debug\net6.0\NumerosPrimosArrayComTeste.dll
+C:\Users\Gabriel\Desktop\teste\NumerosPrimosArrayComTeste\NumerosPrimosArrayComTeste\bin\Debug\net6.0\NumerosPrimosArrayComTeste.pdb
+C:\Users\Gabriel\Desktop\teste\NumerosPrimosArrayComTeste\NumerosPrimosArrayComTeste\obj\Debug\net6.0\NumerosPrimosArrayComTeste.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\teste\NumerosPrimosArrayComTeste\NumerosPrimosArrayComTeste\obj\Debug\net6.0\NumerosPrimosArrayComTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\teste\NumerosPrimosArrayComTeste\NumerosPrimosArrayComTeste\obj\Debug\net6.0\NumerosPrimosArrayComTeste.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\teste\NumerosPrimosArrayComTeste\NumerosPrimosArrayComTeste\obj\Debug\net6.0\NumerosPrimosArrayComTeste.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\teste\NumerosPrimosArrayComTeste\NumerosPrimosArrayComTeste\obj\Debug\net6.0\NumerosPrimosArrayComTeste.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\teste\NumerosPrimosArrayComTeste\NumerosPrimosArrayComTeste\obj\Debug\net6.0\NumerosPrimosArrayComTeste.dll
+C:\Users\Gabriel\Desktop\teste\NumerosPrimosArrayComTeste\NumerosPrimosArrayComTeste\obj\Debug\net6.0\refint\NumerosPrimosArrayComTeste.dll
+C:\Users\Gabriel\Desktop\teste\NumerosPrimosArrayComTeste\NumerosPrimosArrayComTeste\obj\Debug\net6.0\NumerosPrimosArrayComTeste.pdb
+C:\Users\Gabriel\Desktop\teste\NumerosPrimosArrayComTeste\NumerosPrimosArrayComTeste\obj\Debug\net6.0\ref\NumerosPrimosArrayComTeste.dll
